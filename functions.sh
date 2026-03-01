@@ -7,3 +7,4 @@ example(){
     echo printing the command from example function, Date:- $(date)
 }
 example
+exit 0-255
